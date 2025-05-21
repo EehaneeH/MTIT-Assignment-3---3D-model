@@ -23,16 +23,16 @@ value.
 
 # Tools and Technologies 
 
- Frontend Framework: HTML5, CSS3, JavaScript
- AR Libraries: A-Frame (v1.3.0) and AR.js 
- 3D Model Format: GLB 
- IDE: Visual Studio Code 
- Version Control: GitHub 
- Hosting: Vercel 
+- Frontend Framework: HTML5, CSS3, JavaScript
+- AR Libraries: A-Frame (v1.3.0) and AR.js 
+- 3D Model Format: GLB 
+- IDE: Visual Studio Code 
+- Version Control: GitHub 
+- Hosting: Vercel 
 
 # Selected Theme: Space Exploration 
- Sun Model: A glowing star with rotation and pulsing animations 
- Spaceship Model: A spacecraft with hover and tilt animations 
- Space Station Model: An orbital station with rotation and orbit animations 
- Astronaut Model: A floating astronaut with zero-gravity movements 
- Alien Model: An extraterrestrial being with bouncing and spinning animations
+- Sun Model: A glowing star with rotation and pulsing animations 
+- Spaceship Model: A spacecraft with hover and tilt animations 
+- Space Station Model: An orbital station with rotation and orbit animations 
+- Astronaut Model: A floating astronaut with zero-gravity movements 
+- Alien Model: An extraterrestrial being with bouncing and spinning animations
